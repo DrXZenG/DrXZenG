@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Xianlong! 
 
 
-<p><em>Ph.D. Student at <a href="http://ohio.edu">Ohio University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer Developer  at ??<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+<p><em>Ph.D. Student at <a href="http://ohio.edu">Ohio University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Associate Professor  at ??<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 </em></p>
 
 
